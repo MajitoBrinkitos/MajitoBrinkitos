@@ -1,7 +1,7 @@
 - 👋 Hi, I’m María José, Majo for my friends
 - 👀 I’m interested in outdoor activities, photography and technology
-- 🌱 I’m currently learning Web Development skills
-- 💞️ I’m looking to collaborate on projects and volunteering opportunities to put what I've learnt into practice
+- 🌱 I’m currently learning Web Development skills 
+- 💞️ I’m looking to collaborate on projects and volunteering opportunities to put what I've learnt into practice https://majitobrinkitos.github.io/front-end-portfolio/
 - 📫 How to reach me www.linkedin.com/in/mariajosemejia5099
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: still thinking about this one....
